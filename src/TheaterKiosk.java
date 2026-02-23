@@ -15,6 +15,5 @@ public class TheaterKiosk {
         {
             System.out.println("You get a wristband");
         }
-
     }
 }
